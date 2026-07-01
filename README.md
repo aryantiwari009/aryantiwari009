@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Tiwari 👋 🚀
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryantiwari009&label=Profile%20Views&color=0e76a8&style=flat-tight" alt="aryantiwari009" />
 </p>
 
@@ -33,13 +33,19 @@ I am a passionate software developer and tech enthusiast focused on building mod
 
 ---
 
-### 📊 GitHub Analytics & Dashboard
+### 📊 Dynamic Coding Analytics & Activity
 
 🤖 **Problem Solving:** I track my technical progression directly through my standalone [neetcode-submissions](https://github.com/aryantiwari009/neetcode-submissions) repository, pushing optimized approaches to competitive coding challenges daily.
 
+#### 🔥 Contribution Streaks & Language Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryantiwari009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aryan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantiwari009&layout=compact&theme=tokyonight&langs_count=6" alt="Aryan's Top Languages" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryantiwari009&theme=tokyonight" alt="Aryan's Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantiwari009&layout=compact&theme=tokyonight&langs_count=6" alt="Aryan's Top Languages" />
+</p>
+
+#### 📈 Core GitHub Performance
+<p align="center">
+  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=aryantiwari009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aryan's Detailed GitHub Stats" />
 </p>
 
 ---
