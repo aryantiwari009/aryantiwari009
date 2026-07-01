@@ -37,15 +37,9 @@ I am a passionate software developer and tech enthusiast focused on building mod
 
 🤖 **Problem Solving:** I track my technical progression directly through my standalone [neetcode-submissions](https://github.com/aryantiwari009/neetcode-submissions) repository, pushing optimized approaches to competitive coding challenges daily.
 
-#### 🔥 Contribution Streaks & Language Metrics
+#### 🔥 Contribution Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantiwari009&theme=tokyonight" width="48%" alt="Aryan's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantiwari009&layout=compact&theme=tokyonight&langs_count=6" width="48%" alt="Aryan's Top Languages" />
-</p>
-
-#### 📈 Core GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryantiwari009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="98%" alt="Aryan's Detailed GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantiwari009&theme=tokyonight" width="60%" alt="Aryan's Streak Stats" />
 </p>
 
 ---
