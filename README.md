@@ -57,5 +57,3 @@ I am a passionate software developer and tech enthusiast focused on building mod
 </p>
 
 > "First, solve the problem. Then, write the code." – John Johnson
-
-> "First, solve the problem. Then, write the code." – John Johnson
