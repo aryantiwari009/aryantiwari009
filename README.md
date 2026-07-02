@@ -48,10 +48,10 @@ I am a passionate software developer and tech enthusiast focused on building mod
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/aryantiwari009" target="_blank">
+  <a href="https://github.com/aryantiwari009" target="blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/aryan-tiwari-446158383/" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-tiwari-446158383/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href = "http://aryan-tiwari.vercel.app/">
