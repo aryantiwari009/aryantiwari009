@@ -40,7 +40,7 @@ I am a passionate software developer and tech enthusiast focused on building mod
 
 #### 🔥 Contribution Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantiwari009&theme=tokyonight" width="60%" alt="Aryan's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantiwari009&theme=tokyonight&cacheSeconds=1800" width="60%" alt="Aryan's Streak Stats" />
 </p>
 
 ---
