@@ -54,6 +54,9 @@ I am a passionate software developer and tech enthusiast focused on building mod
   <a href="https://www.linkedin.com/in/aryan-tiwari-446158383/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  <a href = "http://aryan-tiwari.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 > "First, solve the problem. Then, write the code." – John Johnson
