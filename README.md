@@ -1,176 +1,219 @@
-# Hi there, I'm Aryan Tiwari 👋
+# <div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryantiwari009&label=Profile%20Views&color=0e76a8&style=for-the-badge" alt="Profile Views"/>
+# Hi 👋, I'm Aryan Tiwari
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Web+Developer;DSA+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=aryantiwari009&label=Profile+Views&color=3b82f6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/aryantiwari009?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/aryantiwari009?style=for-the-badge"/>
 </p>
 
-<h3 align="center">
-Software Developer • Problem Solver • Full Stack Web Developer
-</h3>
+</div>
 
-<p align="center">
-I enjoy building modern web applications, solving challenging algorithmic problems, and continuously learning new technologies.
+---
+
+# 💫 About Me
+
+```yaml
+Name: Aryan Tiwari
+
+Role: Software Developer
+
+Education:
+  - Master of Computer Applications (MCA)
+
+Interests:
+  - Full Stack Development
+  - Data Structures & Algorithms
+  - System Design
+  - Backend Development
+
+Currently Learning:
+  - Next.js
+  - TypeScript
+  - Node.js
+  - Advanced DSA
+
+Goal:
+  - Software Development Engineer
+```
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css"/>
+
 </p>
 
----
+### Frameworks
 
-# 🚀 About Me
+<p>
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 💻 Passionate about **Full Stack Development**
-- 🌱 Currently improving **Data Structures & Algorithms**
-- 🚀 Building scalable web applications using modern technologies
-- ⚡ Goal: Become a Software Development Engineer
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs"/>
 
----
+</p>
 
-# 🛠 Tech Stack
+### Databases
 
-## Languages
+<p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
----
+</p>
 
-## Frameworks & Libraries
+### Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux"/>
 
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌐 Devflow
-Developer-centric collaboration platform built with TypeScript.
+## 🌐 Devflow
+
+> Developer collaboration platform built using modern web technologies.
 
 🔗 https://github.com/aryantiwari009/Devflow
 
 ---
 
-### 🍔 FOOD_APP
-Responsive food ordering UI with modern frontend design.
+## 🍔 FOOD_APP
+
+> Responsive food ordering application with a modern UI.
 
 🔗 https://github.com/aryantiwari009/FOOD_APP
 
 ---
 
-### 💼 Personal Portfolio
-My portfolio showcasing projects, skills and experience.
+## 💼 Personal Portfolio
 
-🔗 https://github.com/aryantiwari009/personal-portfolio
+> My personal website showcasing projects, skills and experience.
 
-🌍 https://aryan-tiwari.vercel.app/
+Repository
+
+https://github.com/aryantiwari009/personal-portfolio
+
+Live Website
+
+https://aryan-tiwari.vercel.app/
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryantiwari009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantiwari009&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=aryantiwari009&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryantiwari009&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryantiwari009&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aryantiwari009&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-</p>
+</div>
 
 ---
 
-# 💻 Coding Journey
+# 📚 Coding Journey
 
-I maintain a dedicated repository containing my coding interview solutions.
+I maintain a dedicated repository for my coding interview preparation and algorithm practice.
 
-### 📌 NeetCode Solutions
-
-Repository:
+### Repository
 
 https://github.com/aryantiwari009/neetcode-submissions
 
-Features:
+### Highlights
 
-- ✅ Daily problem solving
-- ✅ Optimized C++ solutions
-- ✅ Topic-wise organization
-- ✅ Clean folder structure
-- ✅ Consistent GitHub contributions
+* Daily problem solving
+* Optimized C++ solutions
+* Topic-wise organization
+* Continuous improvements
+* Consistent GitHub activity
 
 ---
 
-# 📈 Current Focus
+# ⚡ Current Focus
 
 ```text
-📚 Data Structures & Algorithms
+🧩 Data Structures & Algorithms
 
-⚛️ React & Next.js
+⚛ React & Next.js
 
-🚀 Full Stack Development
+🟢 Node.js
 
-🧠 System Design Basics
+🗄 MongoDB
 
-☁️ Deployment & DevOps
+☁ Cloud Deployment
+
+📚 System Design
 ```
+
+---
+
+# 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   ████████████░░░░░░░░ 45%
+
+TypeScript   ████████░░░░░░░░░░░ 28%
+
+C++          ██████░░░░░░░░░░░░░ 18%
+
+HTML/CSS     ███░░░░░░░░░░░░░░░░ 9%
+```
+
+<!--END_SECTION:waka-->
+
+> This becomes live once WakaTime is connected.
 
 ---
 
 # 🐍 Contribution Snake
 
-> Enable this after adding the GitHub Action.
-
-```md
+```html
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/aryantiwari009/aryantiwari009/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/aryantiwari009/aryantiwari009/output/github-contribution-grid-snake.svg"/>
 
 </p>
 ```
@@ -179,42 +222,48 @@ Features:
 
 # 📊 GitHub Metrics
 
-> Enable this after adding the Metrics GitHub Action.
-
-```md
-<img src="https://raw.githubusercontent.com/aryantiwari009/aryantiwari009/main/github-metrics.svg">
+```html
+<img src="https://raw.githubusercontent.com/aryantiwari009/aryantiwari009/main/github-metrics.svg"/>
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 🌎 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/aryantiwari009">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aryan-tiwari-446158383/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://aryan-tiwari.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
+<a href="https://aryan-tiwari.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+## 💭 Quote of the Day
 
-</p>
+*"First, solve the problem. Then, write the code."*
 
-<p align="center">
+**— John Johnson**
 
-⭐ If you like my work, consider following me and checking out my repositories!
+</div>
 
-</p>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
