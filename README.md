@@ -108,9 +108,11 @@ https://aryan-tiwari.vercel.app/
 
 # 🔥 Contribution Streak
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=aryantiwari009&theme=dark" alt="GitHub Streak" />
-</a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=aryantiwari009&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
