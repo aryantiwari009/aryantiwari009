@@ -106,16 +106,6 @@ https://aryan-tiwari.vercel.app/
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=aryantiwari009&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 # 📚 Coding Journey
 
 I maintain a dedicated repository for my coding interview preparation and algorithm practice.
