@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Aryan Tiwari 👋
+
+# Hi there, I'm Aryan Tiwari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a passionate software developer and tech enthusiast focused on building modern, impactful web applications and honing my data structures and algorithms skills. 
 
